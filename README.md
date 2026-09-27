@@ -1,4 +1,3 @@
-## Hi there 👋
 # About Me
 
 Hi, I’m a sophomore undergraduate student from a 211 university in China.
